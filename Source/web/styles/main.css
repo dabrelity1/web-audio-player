@@ -1,0 +1,18 @@
+.app {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .eq-plugin {
+    margin: 20px auto;
+    width: 300px;
+  }
+  
+  .eq-slider {
+    margin-bottom: 20px;
+  }
+  
+  .eq-slider label {
+    display: block;
+    margin-bottom: 5px;
+  }
